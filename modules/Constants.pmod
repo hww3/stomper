@@ -1,0 +1,1 @@
+constant hello_world = "/queue/TEST.FOO";
